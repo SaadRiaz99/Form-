@@ -40,9 +40,10 @@ while True:
 
     # EXIT
     elif Chose == 4:
-        print("👋 Allah Hafiz!")
+        print(" Allah Hafiz!")
         break
 
     # INVALID INPUT
     else:
         print(" Invalid choice, please try again.")
+
